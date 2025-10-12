@@ -1,5 +1,4 @@
-## Hi, I am <a href="https://www.linkedin.com/in/joy-kim-b113a5227/" target="_blank">Joy Kim </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
-
+## Hi, I am <a href="[https://www.linkedin.com/in/joy-kim-b113a5227/](https://www.linkedin.com/in/joy-kim-b113a5227/)" target="_blank">Joy Kim </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 Nice to meet you!<br/>
 Transitioned from a scholarship-awarded :hospital: medical student in Canberra, Australia, to an engineer who is passionate about deciphering intricate challenges, whether in software, mathematics, or
 human-centric problems. I inspire colleagues with enthusiasm, fostering collaborative teamwork
@@ -7,7 +6,7 @@ for amplified outcomes. In my leisure time, I enjoy a cup of coffee and reading 
 the land of imagination.
 <div align="center">
 <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width="200"><br/>
-<a href="https://www.linkedin.com/in/joy-kim-b113a5227/">
+<a href="[https://www.linkedin.com/in/joy-kim-b113a5227/](https://www.linkedin.com/in/joy-kim-b113a5227/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 <br/><br/><br/>
