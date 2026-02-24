@@ -7,7 +7,7 @@ I believe that collaborative engineering builds far more resilient technology th
 I live for the edge cases. If there is a one-in-a-million bug and a million daily hits, that problem is a certainty—and I love tackling those certainties. Transitioning from a scholarship-awarded medical student in Canberra to a systems-focused engineer, I’ve traded clinical diagnostics for software architecture, focusing on the intricate challenges where precision is everything.
 
 <div align="center">
-  <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="Hacker Bongo Cat" width="200" />
+  <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="Hacker Bongo Cat" width="120" />
   <br/><br/>
   <a href="https://www.linkedin.com/in/joy-kim-b113a5227/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -16,7 +16,7 @@ I live for the edge cases. If there is a one-in-a-million bug and a million dail
 
 ---
 
-### 🛠️ Technical Arsenal
+#### 🛠️ Technical Arsenal
 
 **Core Languages**<br/>
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -26,6 +26,8 @@ I live for the edge cases. If there is a one-in-a-million bug and a million dail
 **Data & Infrastructure**<br/>
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
@@ -38,7 +40,7 @@ I live for the edge cases. If there is a one-in-a-million bug and a million dail
 
 ---
 
-### 📊 GitHub Stats & Data
+#### 📊 GitHub Stats & Data
 
 <div align="center">
   <img width="38%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=XH-rPLr&theme=tokyonight&hide_border=true"/>
