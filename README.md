@@ -54,7 +54,7 @@ I live for the edge cases. If there is a one-in-a-million bug and a million dail
 #### 📊 GitHub Stats & Data
 
 <div align="center">
-  <img width="38%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=XH-rPLr&theme=tokyonight&hide_border=true"/>
-  <img width="48%" alt="Top Langs" src="https://github-readme-stats-dusky-seven-14.vercel.app/api/top-langs/?username=XH-rPLr&layout=compact&theme=tokyonight&hide_border=true&count_private=true&private_contributions=true"/>
+  <img height="180" width="300" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=XH-rPLr&theme=tokyonight&hide_border=true"/>
+  <img height="119" width="300" alt="Top Langs" src="https://github-readme-stats-dusky-seven-14.vercel.app/api/top-langs?username=XH-rPLr&count_private=true&layout=compact&theme=tokyonight&hide_border=true&hide_title=true"/>
 </div>
 <br/>
