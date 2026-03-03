@@ -4,7 +4,7 @@
 
 I believe that collaborative engineering builds far more resilient technology than any single person ever could. I am an engineer who thrives on the "unraveling" process: low-level networking, concurrency, and the internal mechanics of how software actually hits the metal. Solving problems at scale is what wakes me up in the morning.
 
-I live for the edge cases. If there is a one-in-a-million bug and a million daily hits, that problem is a certainty—and I love tackling those certainties. Transitioning from a scholarship-awarded medical student in Canberra to a systems-focused engineer, I’ve traded clinical diagnostics for software architecture, focusing on the intricate challenges where precision is everything.
+I live for the edge cases. If there is a one-in-a-million bug and a million daily hits, that problem is a certainty, and I love tackling those certainties. Transitioning from a scholarship-awarded medical student in Canberra to a systems-focused engineer, I’ve traded clinical diagnostics for software architecture, focusing on the intricate challenges where precision is everything.
 
 <div align="center">
   <img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="Hacker Bongo Cat" width="120" />
