@@ -23,6 +23,11 @@ I live for the edge cases. If there is a one-in-a-million bug and a million dail
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+**Performance & Systems Internals**<br/>
+![eBPF](https://img.shields.io/badge/eBPF-007ACC?style=flat-square&logo=ebpf&logoColor=white)
+![SIMD](https://img.shields.io/badge/SIMD-Vectorization-orange?style=flat-square)
+![Concurrency](https://img.shields.io/badge/Concurrency-Async%20%7C%20Sharded%20Locking-red?style=flat-square)
+
 **Cloud & Orchestration**<br/>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
@@ -48,11 +53,6 @@ I live for the edge cases. If there is a one-in-a-million bug and a million dail
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=fff)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=fff)
-
-**Performance & Systems Internals**<br/>
-![eBPF](https://img.shields.io/badge/eBPF-Infrastructure%20Observability-007ACC?style=flat-square&logo=ebpf&logoColor=white)
-![SIMD](https://img.shields.io/badge/SIMD-Data%20Vectorization-orange?style=flat-square)
-![Concurrency](https://img.shields.io/badge/Concurrency-Async%20%7C%20Sharded%20Locking-red?style=flat-square)
 
 ---
 
