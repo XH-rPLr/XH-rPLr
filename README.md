@@ -50,9 +50,9 @@ I live for the edge cases. If there is a one-in-a-million bug and a million dail
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=fff)
 
 **Performance & Systems Internals**<br/>
-![eBPF](https://img.shields.io/badge/eBPF-007ACC?style=flat-square&logo=ebpf&logoColor=white)
-![SIMD](https://img.shields.io/badge/SIMD-Vectorization-orange?style=flat-square)
-![Concurrency](https://img.shields.io/badge/Lock--Free%20Concurrency-red?style=flat-square)
+![eBPF](https://img.shields.io/badge/eBPF-Infrastructure%20Observability-007ACC?style=flat-square&logo=ebpf&logoColor=white)
+![SIMD](https://img.shields.io/badge/SIMD-Data%20Vectorization-orange?style=flat-square)
+![Concurrency](https://img.shields.io/badge/Concurrency-Async%20%7C%20Sharded%20Locking-red?style=flat-square)
 
 ---
 
