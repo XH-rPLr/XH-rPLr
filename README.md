@@ -49,6 +49,11 @@ I live for the edge cases. If there is a one-in-a-million bug and a million dail
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=fff)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=fff)
 
+**Performance & Systems Internals**<br/>
+![eBPF](https://img.shields.io/badge/eBPF-007ACC?style=flat-square&logo=ebpf&logoColor=white)
+![SIMD](https://img.shields.io/badge/SIMD-Vectorization-orange?style=flat-square)
+![Concurrency](https://img.shields.io/badge/Lock--Free%20Concurrency-red?style=flat-square)
+
 ---
 
 #### 📊 GitHub Stats & Data
